@@ -10,7 +10,7 @@ class Mycard extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 24, 27, 24),
       appBar: AppBar(
-        title: const Text('MY  CARD'),
+        title: const Text('MY ID CARD'),
         centerTitle: true,
         backgroundColor: const Color.fromARGB(255, 35, 40, 35),
         elevation: 0.0,
